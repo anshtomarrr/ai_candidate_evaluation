@@ -1,0 +1,15 @@
+Python Developer Job Description
+
+We are seeking a skilled Python Developer with experience in machine learning, data analysis, and web development. The ideal candidate should have:
+
+- Proficiency in Python
+- Experience with machine learning frameworks (e.g., scikit-learn, TensorFlow)
+- Knowledge of web frameworks such as Django or Flask
+- Strong problem-solving skills
+- At least 3 years of relevant experience
+- A degree in Computer Science or related field
+- Excellent communication and teamwork abilities
+
+Preferred:
+- Experience with cloud platforms (AWS, GCP)
+- Leadership or mentoring experience 
