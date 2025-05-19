@@ -44,4 +44,7 @@ Thumbs.db
 candidate_rankings.json
 resumes/
 *.pdf
-*.docx 
+*.docx
+
+# Streamlit
+.streamlit/secrets.toml 
